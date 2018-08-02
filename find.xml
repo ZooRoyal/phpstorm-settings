@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\engine\Shopware\Plugins\Local\Backend\ZRFindologicExport\Components\Export\Findologic.php [zooroyalweb]'" />
+    <option name="defaultScopeName" value="File '...\engine\Shopware\Plugins\Local\Backend\ZRFindologicExport\Components\Export\Findologic.php [zooroyalweb]'" />
+    <option name="SEARCH_SCOPE" value="File '...\engine\Shopware\Plugins\Local\Backend\ZRFindologicExport\Components\Export\Findologic.php [zooroyalweb]'" />
   </component>
 </application>
