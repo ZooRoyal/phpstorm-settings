@@ -6,18 +6,15 @@
 ## Project setup
 
 1. In PHPStorm, navigate to *File > Settings Repository...*
-2. Set the upstream URL to *git@github.com:ZooRoyal/phpstorm-settings.git*
-3. Press overwrite local.
+2. Set the upstream URL to *https://github.com/ZooRoyal/phpstorm-settings.git*
+3. Press overwrite local
+4. Authenticate (see next step)
+
+## Authentication
+On first sync you will be prompted to specify username/password. In case of GitHub strongly recommended to use a [personal access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use) (leave password empty if you use token instead of username). Remember when generating the token to  check `repo` scope permission.
 
 ## Plugins enabled
 
 The following PhpStorm plugins are installed:
-* [.ignore](https://github.com/hsz/idea-gitignore) - support for the .gitignore files
-* [BashSupport](https://github.com/jansorg/BashSupport) - support for .sh bash scripts
-* [PHP Annotations](https://github.com/Haehnchen/idea-php-annotation-plugin)
-* [PHP composer.json support](https://github.com/psliwa/idea-composer-plugin) - enhanced composer support
-* [Symfony Plugin](https://github.com/Haehnchen/idea-php-symfony2-plugin)
 
-## References
-
-- tbd
+* tbd
