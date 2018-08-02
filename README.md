@@ -21,7 +21,3 @@ The following PhpStorm plugins are installed:
 ## References
 
 - tbd
-
-## Author
-
-- Sebastian Kessler <s.kessler@zooroyal.de>
