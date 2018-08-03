@@ -1,0 +1,23 @@
+{
+  "name": "zooroyal/phpstorm-settings",
+  "description": "These are the ZooRoyal PHPStorm Settings.",
+  "type": "composer-plugin",
+  "keywords": [
+    "ZooRoyal",
+    "phpstorm",
+    "settings"
+  ],
+  "homepage": "https://github.com/ZooRoyal/phpstorm-settings",
+  "license": "GNU General Public License v3.0",
+  "authors": [
+    {
+      "name": "Sebastian Kessler",
+      "email": "s.kessler@zooroyal.de"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/ZooRoyal/phpstorm-settings/issues",
+    "wiki": "https://github.com/ZooRoyal/phpstorm-settings/wiki",
+    "source": "https://github.com/ZooRoyal/phpstorm-settings"
+  }
+}
