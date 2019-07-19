@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8f776cd7-1f14-4ee0-9be5-01ad0ba2ea91" name="ZooRoyal Vagrant" url="http://dev.zooroyal.rdss.it">
+        <fileTransfer host="dev.zooroyal.rdss.it" port="22" rootFolder="/var/www/zooroyal/htdocs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
