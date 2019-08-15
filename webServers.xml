@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="345d931b-ae48-4f3e-9359-06972113edc2" name="weinfreunde" url="http://dev.weinfreunde.rdss.it">
+        <fileTransfer host="dev.weinfreunde.rdss.it" port="22" rootFolder="/var/www/weinfreunde/htdocs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
