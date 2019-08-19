@@ -25,6 +25,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="ff55e6c0-31be-4fd0-8d22-04df64405d5b" name="weinkeller" url="http://dev.weinkeller.rdss.it">
+        <fileTransfer host="dev.weinkeller.rdss.it" port="22" rootFolder="/var/www/weinkeller/htdocs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
