@@ -3,7 +3,7 @@
     <property name="created">2019-09-05T09:38:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-09-05T11:46:13</property>
+    <property name="modified">2019-09-05T11:49:03</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,10 @@
   </colors>
   <attributes>
     <option name="TEXT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
     </option>
   </attributes>
 </scheme>
