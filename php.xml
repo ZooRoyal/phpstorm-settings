@@ -4,5 +4,15 @@
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
+    <phpcs_settings>
+      <phpcs_by_interpreter interpreter_id="1ee27e56-5f08-40e4-b049-aa47df82a7b4" standards="MySource;PEAR;PHPCompatibility;PSR1;PSR12;PSR2;SlevomatCodingStandard;Squiz;Zend;ZooRoyal;codeception" tool_path="/home/vagrant/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="1ee27e56-5f08-40e4-b049-aa47df82a7b4" name="Remote PHP" home="vagrant://DATA" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="C:/GIT/RDSS/PlatformTesting" INTERPRETER_PATH="/home/vagrant/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
+      </interpreter>
+    </interpreters>
   </component>
 </application>
