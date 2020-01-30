@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".dontSniffLESS" type="PLAIN_TEXT" />
+      <mapping ext="htc" type="PLAIN_TEXT" />
       <mapping pattern=".dontSniffJS" type="Twig" />
     </extensionMap>
   </component>
