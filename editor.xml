@@ -2,5 +2,6 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
 </application>
