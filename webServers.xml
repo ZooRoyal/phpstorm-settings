@@ -41,6 +41,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="cc2e871d-e286-4712-b288-2d499fa65d0b" name="guestbook" url="http://dev.zooroyal.rdss.it">
+        <fileTransfer host="dev.zooroyal.rdss.it" port="22" rootFolder="/var/www/zooroyal/guestbook" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
