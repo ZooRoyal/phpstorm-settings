@@ -42,7 +42,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="cc2e871d-e286-4712-b288-2d499fa65d0b" name="guestbook" url="http://dev.zooroyal.rdss.it">
-        <fileTransfer host="dev.zooroyal.rdss.it" port="22" rootFolder="/var/www/zooroyal/guestbook" accessType="SFTP">
+        <fileTransfer host="dev.zooroyal.rdss.it" port="22" rootFolder="/home/vagrant/guestbook" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
